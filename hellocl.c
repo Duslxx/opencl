@@ -1,3 +1,4 @@
+/* https://wiki.aalto.fi/display/hpec/opencl+tutorial */
 #include <stdio.h>
 #include <stdlib.h>
   
