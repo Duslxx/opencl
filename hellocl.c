@@ -7,9 +7,10 @@
 #else
 #include <CL/cl.h>
 #endif
+#include <CL/cl_ext.h>
  
 /* A kernel which does nothing */
-const char *source_str = 
+const char *source_str =
     "__kernel void foo(void)"
     "{"
     ""
